@@ -1,0 +1,9 @@
+.main.c.swn
+.main.c.swo
+.main.c.swp
+emu
+backup_emu.c
+emu_full.c
+emu_info.txt
+main_6502.a
+o
